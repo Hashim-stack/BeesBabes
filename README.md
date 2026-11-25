@@ -3,9 +3,8 @@
   <img src="frontend/public/logo.png" alt="BeesBabes Logo" width="220" />
 </p>
 
-
 **BeesBabes** is a modern **PERN stack** application built to showcase and manage kids' products. It offers seamless **CRUD** operations for products and integrates rate limiting for security.
-
+ 
 ## 🚀 Features
 
 - Full-featured **CRUD operations** for kids' products
